@@ -1,7 +1,6 @@
-Welcome to your Appcelerator Titanium Mobile Project
+# Ejemplo de uso de las Google Chart API con Titanium/Alloy
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
+Este es un ejemplo básico de como se utilizarían las gráficas, como pasarle parametros desde Titanium y que haga una representación gráfica de las mismas dentro del dispositivo móvil.
 
 
 
