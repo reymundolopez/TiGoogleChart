@@ -7,16 +7,17 @@ Ejemplo de uso:
 Dentro del archivo chart.html en la carpeta assets, se modifica los titulos que se desean poner, o se pueden enviar como parametros desde el controlador (index.js).
 
 Dentro del controlador solo se necesita enviar la información que se desea gráficar:
+
     setTimeout(function(e){
-		Ti.App.fireEvent("drawTheChart", { data : [
-			["Weeks", "Rey" , "Caro", "Pablo"],
-			["1" , 4, 6, 2],
-			["2" , 6, 4, 4],
-			["3" , 3, 3, 4],
-			["4" , 6, 8, 10],
-			]}
-		);
-	}, 2000);
+        Ti.App.fireEvent("drawTheChart", { data : [
+    		["Weeks", "Rey" , "Caro", "Pablo"],
+    		["1" , 4, 6, 2],
+    		["2" , 6, 4, 4],
+    		["3" , 3, 3, 4],
+    		["4" , 6, 8, 10],
+    		]}
+    	);
+    }, 2000);
 
 
 ----------------------------------
