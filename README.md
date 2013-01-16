@@ -2,6 +2,8 @@
 
 Este es un ejemplo básico de como se utilizarían las gráficas, como pasarle parametros desde Titanium y que haga una representación gráfica de las mismas dentro del dispositivo móvil.
 
+Ejemplo de uso:
+[Proximamente]
 
 
 ----------------------------------
